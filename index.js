@@ -1,4 +1,4 @@
-const apiKey = "API-KEY";  
+const apiKey = "API-KEY";  // openweathermap.org - You can create an API key by opening an account from this site. It won't work right away when you first create it, don't worry it will be active within 24 hours.
  const main = document.getElementById('main');  
  const form = document.getElementById('form');  
  const search = document.getElementById('search');  
